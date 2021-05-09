@@ -1,2 +1,2 @@
 rootProject.name = "BluetoothLib"
-include ':app'
+include ':bluetoothLib'
